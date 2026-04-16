@@ -21,14 +21,6 @@ Użytkownik wybiera kategorię, jednostkę źródłową i docelową, wpisuje war
 
 ---
 
-## Wymagania
-
-- System operacyjny Windows  
-- .NET Framework 4.7.2 lub nowszy  
-- Visual Studio (zalecane) do kompilacji i uruchomienia  
-- C# w wersji 7.3 lub wyższej   
-
----
 
 ## Struktura projektu
 
